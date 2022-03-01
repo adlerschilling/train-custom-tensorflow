@@ -16,10 +16,10 @@ Para gerar nossa base de dados foram utilizadas imagens disponíveis no google i
 
 Para auxiliar na criação do dataset foi utilizado o programa labelImg.
 
-![Semantic description of image](/imagens/image1.png "labelImg")
+![Semantic description of image](/imagens/labelImg.gif "labelImg")
 
-Os arquivos ficaram disponivéis no diretório [images/dados/](https://github.com/adlerschilling/train-custom-tensorflow/tree/main/imagens/dados).
+As imagens e suas anotações  estão disponivéis no diretório [images/dados/](https://github.com/adlerschilling/train-custom-tensorflow/tree/main/imagens/dados).
 
+Agora que temos as imagens e suas anotações prontas, poderemos gerar os arquivos .rec para o treinamento, para isso usaremos o próprio Google Colab.
 
-
-
+Para facilitar a manipulação dos dados vamos utilizar nosso Google Drive para armazenar os dados do treinamento, para isso deve ser dado a permissão de acesso ao Google Drive.
