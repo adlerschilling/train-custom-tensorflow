@@ -5,4 +5,15 @@
 
 Criando dados
 ----------
-<p align="justify"> Para gerar nossa base de dados foram coletados dados de um stream de uma camera localizada em uma praça. </p>
+Para gerar nossa base de dados foram utilizadas imagens disponíveis no google imagens.
+
+Teremos quatro classes:
+  - Pica Pau
+  - Urubu
+  - Pink
+  - Cerebro
+  
+Para auxiliar na criação dos arquivos necessários utilizaremos o programa labelImg.
+
+
+
