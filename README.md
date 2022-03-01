@@ -18,7 +18,7 @@ Para auxiliar na criação do dataset foi utilizado o programa labelImg.
 
 ![Semantic description of image](/imagens/labelImg.gif "labelImg")
 
-Os arquivos ficaram disponivéis no diretório [images/dados/](https://github.com/adlerschilling/train-custom-tensorflow/tree/main/imagens/dados).
+As imagens e suas anotações  estão disponivéis no diretório [images/dados/](https://github.com/adlerschilling/train-custom-tensorflow/tree/main/imagens/dados).
 
 
 
