@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>32.jpg</filename>
+	<path>imagens/dados/train/32.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>473</width>
+		<height>470</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>urubu</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>84</ymin>
+			<xmax>444</xmax>
+			<ymax>470</ymax>
+		</bndbox>
+	</object>
+</annotation>

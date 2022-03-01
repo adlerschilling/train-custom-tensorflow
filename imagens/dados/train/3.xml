@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>3.jpeg</filename>
+	<path>imagens/dados/train/3.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>173</width>
+		<height>291</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>picapau</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>1</ymin>
+			<xmax>172</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+</annotation>
