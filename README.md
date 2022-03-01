@@ -16,7 +16,7 @@ Para gerar nossa base de dados foram utilizadas imagens disponíveis no google i
 
 Para auxiliar na criação do dataset foi utilizado o programa labelImg.
 
-![Semantic description of image](/imagens/image1.png "labelImg")
+![Semantic description of image](/imagens/labelImg.gif "labelImg")
 
 Os arquivos ficaram disponivéis no diretório [images/dados/](https://github.com/adlerschilling/train-custom-tensorflow/tree/main/imagens/dados).
 
