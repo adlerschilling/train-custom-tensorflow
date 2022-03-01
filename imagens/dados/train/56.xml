@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>56.jpg</filename>
-	<path>imagens/dados/train/56.jpg</path>
+	<path>/content/drive/MyDrive/train-custom-tensorflow/imagens/dados/train/56.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
