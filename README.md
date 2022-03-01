@@ -20,6 +20,6 @@ Para auxiliar na criação do dataset foi utilizado o programa labelImg.
 
 As imagens e suas anotações  estão disponivéis no diretório [images/dados/](https://github.com/adlerschilling/train-custom-tensorflow/tree/main/imagens/dados).
 
-
+Agora que temos as imagens e suas anotações prontas, poderemos gerar os arquivos .rec para o treinamento, para isso usaremos o próprio Google Colab.
 
 
