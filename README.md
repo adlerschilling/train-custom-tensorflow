@@ -22,4 +22,4 @@ As imagens e suas anotações  estão disponivéis no diretório [images/dados/]
 
 Agora que temos as imagens e suas anotações prontas, poderemos gerar os arquivos .rec para o treinamento, para isso usaremos o próprio Google Colab.
 
-
+Para facilitar a manipulação dos dados vamos utilizar nosso Google Drive para armazenar os dados do treinamento, para isso deve ser dado a permissão de acesso ao Google Drive.
