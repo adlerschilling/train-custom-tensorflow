@@ -5,7 +5,6 @@
 
 Criando dados
 ----------
-Para gerar nossa base de dados foram utilizadas imagens disponíveis no google imagens.
 
 Teremos quatro classes:
   - Pica-Pau
@@ -13,7 +12,9 @@ Teremos quatro classes:
   - Pink
   - Cerebro
   
-Para auxiliar na criação dos arquivos necessários utilizaremos o programa labelImg.
+Para gerar nossa base de dados foram utilizadas imagens disponíveis no google imagens.
+
+Para auxiliar na criação do dataset foi utilizado o programa labelImg.
 
 ![Semantic description of image](/imagens/image1.png "labelImg")
 
