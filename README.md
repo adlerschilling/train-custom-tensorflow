@@ -17,7 +17,7 @@ Para auxiliar na criação dos arquivos necessários utilizaremos o programa lab
 
 ![Semantic description of image](/imagens/image1.png "labelImg")
 
-Os arquivos ficaram disponivéis no diretório [images/dados/](images/dados/).
+Os arquivos ficaram disponivéis no diretório [images/dados/](https://github.com/adlerschilling/train-custom-tensorflow/tree/main/imagens/dados).
 
 
 
